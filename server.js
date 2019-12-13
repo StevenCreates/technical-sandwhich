@@ -1,5 +1,6 @@
 var express = require("express");
 var routes = require("./controllers/burgers_controller");
+require('dotenv').config()
 var PORT = process.env.PORT || 8080;
 var app = express();
 
