@@ -1,0 +1,14 @@
+.name {
+    font-weight: bold;
+
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+}
+
+.text-info {
+    color: orange;
+}
+
